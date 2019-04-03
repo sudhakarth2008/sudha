@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-03-17T05:42:27Z" name="Default suite" finished-at="2019-03-17T05:43:28Z" duration-ms="60237">
+    <groups>
+    </groups>
+    <test started-at="2019-03-17T05:42:27Z" name="Default test" finished-at="2019-03-17T05:43:28Z" duration-ms="60237">
+      <class name="EXPORT.AddEmp">
+        <test-method is-config="true" signature="suiteSetup1()[pri:0, instance:EXPORT.AddEmp@66d18979]" started-at="2019-03-17T05:42:27Z" name="suiteSetup1" finished-at="2019-03-17T05:42:28Z" duration-ms="771" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteSetup1 -->
+        <test-method signature="AddEmp_datadriventest()[pri:0, instance:EXPORT.AddEmp@66d18979]" started-at="2019-03-17T05:42:28Z" name="AddEmp_datadriventest" finished-at="2019-03-17T05:43:27Z" duration-ms="59121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddEmp_datadriventest -->
+        <test-method is-config="true" signature="AftersuiteSetup2()[pri:0, instance:EXPORT.AddEmp@66d18979]" started-at="2019-03-17T05:43:27Z" name="AftersuiteSetup2" finished-at="2019-03-17T05:43:28Z" duration-ms="299" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AftersuiteSetup2 -->
+      </class> <!-- EXPORT.AddEmp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
